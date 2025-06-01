@@ -1,0 +1,55 @@
+
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+    <meta charset="UTF-8">
+    <title>Játékok</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <button onclick="navigateTo('main_page.html')">Vissza a főoldalra</button>
+    </header>
+    <div class = main_container>
+        <div class ="content">
+    <h2>Szűrj platform alapján játékot és találd meg életed értelmét!</h2>
+    <select id="filter" onchange="sortBy()">
+        <option value="all">Összes</option>
+        <option value="xbox">Xbox</option>
+        <option value="playstation">PlayStation</option>
+        <option value="pc">Számítógép</option>
+        <option value="switch">Nintendo Switch</option>
+        <option value="panasonic-q">Panasonic Q</option>
+        <option value="gizmondo">Gizmondo</option>
+        <option value="vectrex">Vectrex</option>
+
+    </select>
+    <div id="filtered-products">
+        <div class="product" data-platforms="xbox,pc">Halo Infinite</div>
+        <div class="product" data-platforms="xbox,pc">Forza Horizon 5</div>
+        <div class="product" data-platforms="xbox,pc">Hi-Fi Rush</div>
+        <div class="product" data-platforms="xbox">BreakDown</div>
+        <div class="product" data-platforms="xbox">Brute Force</div>
+        <div class="product" data-platforms="xbox">Blood Wake</div>
+        <div class="product" data-platforms="pc, playstation">Ratchet & Clank: Rift Apart </div>
+        <div class="product" data-platforms="pc, playstation">Bloodborne </div>
+        <div class="product" data-platforms="playstation,pc">Helldivers 2</div>
+        <div class="product" data-platforms=" playstation">Gran Turismo 4 </div>
+        <div class="product" data-platforms="playstation">Shadow of the Colossus</div>
+        <div class="product" data-platforms="pc, playstation">Crash Bandicoot</div>
+        <div class="product" data-platforms="pc">Counter-Strike 2</div>
+        <div class="product" data-platforms="pc,playstation,xbox,switch">Rocket league</div>
+        <div class="product" data-platforms="switch">Mario Kart 8 Deluxe</div>
+        <div class="product" data-platforms="switch">The Legend Of Zelda: Breath Of The Wild</div>
+        <div class="product" data-platforms="panasonic-q">Power Rangers: The Winds Awakening </div>
+        <div class="product" data-platforms="gizmondo">Interstellar Flames 2</div>
+        <div class="product" data-platforms="vectrex">3D Crazy Coaster</div>
+    </div>
+   </div>
+    <div class="rgb-frog">
+    <img id="rgb-frog" src="./RGBeka.gif" alt="RGBÉKAAA">
+    </div>
+    <script src="logic.js"></script>
+    </div>
+</body>
+</html>

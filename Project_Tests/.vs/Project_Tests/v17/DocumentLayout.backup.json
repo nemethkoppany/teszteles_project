@@ -1,0 +1,197 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Tanul\u00E1s\\Programoz\u00E1s\\Szoftvertesztel\u00E9s\\Tesztel\u00E9s Projekt ideiglenes mappa\\Project_Tests\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{79873BD3-0E09-4CAD-8E4A-5A4D33DA0852}|Project_Tests\\Project_Tests.csproj|c:\\tanul\u00E1s\\programoz\u00E1s\\szoftvertesztel\u00E9s\\tesztel\u00E9s projekt ideiglenes mappa\\project_tests\\project_tests\\tests\\basetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79873BD3-0E09-4CAD-8E4A-5A4D33DA0852}|Project_Tests\\Project_Tests.csproj|solutionrelative:project_tests\\tests\\basetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79873BD3-0E09-4CAD-8E4A-5A4D33DA0852}|Project_Tests\\Project_Tests.csproj|c:\\tanul\u00E1s\\programoz\u00E1s\\szoftvertesztel\u00E9s\\tesztel\u00E9s projekt ideiglenes mappa\\project_tests\\project_tests\\tests\\gameplatformspagetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79873BD3-0E09-4CAD-8E4A-5A4D33DA0852}|Project_Tests\\Project_Tests.csproj|solutionrelative:project_tests\\tests\\gameplatformspagetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79873BD3-0E09-4CAD-8E4A-5A4D33DA0852}|Project_Tests\\Project_Tests.csproj|c:\\tanul\u00E1s\\programoz\u00E1s\\szoftvertesztel\u00E9s\\tesztel\u00E9s projekt ideiglenes mappa\\project_tests\\project_tests\\pages\\basepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79873BD3-0E09-4CAD-8E4A-5A4D33DA0852}|Project_Tests\\Project_Tests.csproj|solutionrelative:project_tests\\pages\\basepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79873BD3-0E09-4CAD-8E4A-5A4D33DA0852}|Project_Tests\\Project_Tests.csproj|c:\\tanul\u00E1s\\programoz\u00E1s\\szoftvertesztel\u00E9s\\tesztel\u00E9s projekt ideiglenes mappa\\project_tests\\project_tests\\pages\\gameplatformspage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79873BD3-0E09-4CAD-8E4A-5A4D33DA0852}|Project_Tests\\Project_Tests.csproj|solutionrelative:project_tests\\pages\\gameplatformspage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79873BD3-0E09-4CAD-8E4A-5A4D33DA0852}|Project_Tests\\Project_Tests.csproj|c:\\tanul\u00E1s\\programoz\u00E1s\\szoftvertesztel\u00E9s\\tesztel\u00E9s projekt ideiglenes mappa\\project_tests\\project_tests\\pages\\gamesforyoupage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79873BD3-0E09-4CAD-8E4A-5A4D33DA0852}|Project_Tests\\Project_Tests.csproj|solutionrelative:project_tests\\pages\\gamesforyoupage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79873BD3-0E09-4CAD-8E4A-5A4D33DA0852}|Project_Tests\\Project_Tests.csproj|c:\\tanul\u00E1s\\programoz\u00E1s\\szoftvertesztel\u00E9s\\tesztel\u00E9s projekt ideiglenes mappa\\project_tests\\project_tests\\pages\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79873BD3-0E09-4CAD-8E4A-5A4D33DA0852}|Project_Tests\\Project_Tests.csproj|solutionrelative:project_tests\\pages\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79873BD3-0E09-4CAD-8E4A-5A4D33DA0852}|Project_Tests\\Project_Tests.csproj|c:\\tanul\u00E1s\\programoz\u00E1s\\szoftvertesztel\u00E9s\\tesztel\u00E9s projekt ideiglenes mappa\\project_tests\\project_tests\\pages\\mainpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79873BD3-0E09-4CAD-8E4A-5A4D33DA0852}|Project_Tests\\Project_Tests.csproj|solutionrelative:project_tests\\pages\\mainpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79873BD3-0E09-4CAD-8E4A-5A4D33DA0852}|Project_Tests\\Project_Tests.csproj|c:\\tanul\u00E1s\\programoz\u00E1s\\szoftvertesztel\u00E9s\\tesztel\u00E9s projekt ideiglenes mappa\\project_tests\\project_tests\\tests\\gamesforyoupagetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79873BD3-0E09-4CAD-8E4A-5A4D33DA0852}|Project_Tests\\Project_Tests.csproj|solutionrelative:project_tests\\tests\\gamesforyoupagetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79873BD3-0E09-4CAD-8E4A-5A4D33DA0852}|Project_Tests\\Project_Tests.csproj|c:\\tanul\u00E1s\\programoz\u00E1s\\szoftvertesztel\u00E9s\\tesztel\u00E9s projekt ideiglenes mappa\\project_tests\\project_tests\\tests\\loginpagetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79873BD3-0E09-4CAD-8E4A-5A4D33DA0852}|Project_Tests\\Project_Tests.csproj|solutionrelative:project_tests\\tests\\loginpagetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79873BD3-0E09-4CAD-8E4A-5A4D33DA0852}|Project_Tests\\Project_Tests.csproj|c:\\tanul\u00E1s\\programoz\u00E1s\\szoftvertesztel\u00E9s\\tesztel\u00E9s projekt ideiglenes mappa\\project_tests\\project_tests\\tests\\mainpagetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79873BD3-0E09-4CAD-8E4A-5A4D33DA0852}|Project_Tests\\Project_Tests.csproj|solutionrelative:project_tests\\tests\\mainpagetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79873BD3-0E09-4CAD-8E4A-5A4D33DA0852}|Project_Tests\\Project_Tests.csproj|c:\\tanul\u00E1s\\programoz\u00E1s\\szoftvertesztel\u00E9s\\tesztel\u00E9s projekt ideiglenes mappa\\project_tests\\project_tests\\project_tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{79873BD3-0E09-4CAD-8E4A-5A4D33DA0852}|Project_Tests\\Project_Tests.csproj|solutionrelative:project_tests\\project_tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GamesForYouPage.cs",
+              "DocumentMoniker": "C:\\Tanul\u00E1s\\Programoz\u00E1s\\Szoftvertesztel\u00E9s\\Tesztel\u00E9s Projekt ideiglenes mappa\\Project_Tests\\Project_Tests\\Pages\\GamesForYouPage.cs",
+              "RelativeDocumentMoniker": "Project_Tests\\Pages\\GamesForYouPage.cs",
+              "ToolTip": "C:\\Tanul\u00E1s\\Programoz\u00E1s\\Szoftvertesztel\u00E9s\\Tesztel\u00E9s Projekt ideiglenes mappa\\Project_Tests\\Project_Tests\\Pages\\GamesForYouPage.cs",
+              "RelativeToolTip": "Project_Tests\\Pages\\GamesForYouPage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T00:04:53.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GamePlatformsPage.cs",
+              "DocumentMoniker": "C:\\Tanul\u00E1s\\Programoz\u00E1s\\Szoftvertesztel\u00E9s\\Tesztel\u00E9s Projekt ideiglenes mappa\\Project_Tests\\Project_Tests\\Pages\\GamePlatformsPage.cs",
+              "RelativeDocumentMoniker": "Project_Tests\\Pages\\GamePlatformsPage.cs",
+              "ToolTip": "C:\\Tanul\u00E1s\\Programoz\u00E1s\\Szoftvertesztel\u00E9s\\Tesztel\u00E9s Projekt ideiglenes mappa\\Project_Tests\\Project_Tests\\Pages\\GamePlatformsPage.cs",
+              "RelativeToolTip": "Project_Tests\\Pages\\GamePlatformsPage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T00:04:46.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BasePage.cs",
+              "DocumentMoniker": "C:\\Tanul\u00E1s\\Programoz\u00E1s\\Szoftvertesztel\u00E9s\\Tesztel\u00E9s Projekt ideiglenes mappa\\Project_Tests\\Project_Tests\\Pages\\BasePage.cs",
+              "RelativeDocumentMoniker": "Project_Tests\\Pages\\BasePage.cs",
+              "ToolTip": "C:\\Tanul\u00E1s\\Programoz\u00E1s\\Szoftvertesztel\u00E9s\\Tesztel\u00E9s Projekt ideiglenes mappa\\Project_Tests\\Project_Tests\\Pages\\BasePage.cs",
+              "RelativeToolTip": "Project_Tests\\Pages\\BasePage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T00:04:18.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GamePlatformsPageTests.cs",
+              "DocumentMoniker": "C:\\Tanul\u00E1s\\Programoz\u00E1s\\Szoftvertesztel\u00E9s\\Tesztel\u00E9s Projekt ideiglenes mappa\\Project_Tests\\Project_Tests\\Tests\\GamePlatformsPageTests.cs",
+              "RelativeDocumentMoniker": "Project_Tests\\Tests\\GamePlatformsPageTests.cs",
+              "ToolTip": "C:\\Tanul\u00E1s\\Programoz\u00E1s\\Szoftvertesztel\u00E9s\\Tesztel\u00E9s Projekt ideiglenes mappa\\Project_Tests\\Project_Tests\\Tests\\GamePlatformsPageTests.cs",
+              "RelativeToolTip": "Project_Tests\\Tests\\GamePlatformsPageTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T00:05:47.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BaseTests.cs",
+              "DocumentMoniker": "C:\\Tanul\u00E1s\\Programoz\u00E1s\\Szoftvertesztel\u00E9s\\Tesztel\u00E9s Projekt ideiglenes mappa\\Project_Tests\\Project_Tests\\Tests\\BaseTests.cs",
+              "RelativeDocumentMoniker": "Project_Tests\\Tests\\BaseTests.cs",
+              "ToolTip": "C:\\Tanul\u00E1s\\Programoz\u00E1s\\Szoftvertesztel\u00E9s\\Tesztel\u00E9s Projekt ideiglenes mappa\\Project_Tests\\Project_Tests\\Tests\\BaseTests.cs",
+              "RelativeToolTip": "Project_Tests\\Tests\\BaseTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T00:05:13.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginPage.cs",
+              "DocumentMoniker": "C:\\Tanul\u00E1s\\Programoz\u00E1s\\Szoftvertesztel\u00E9s\\Tesztel\u00E9s Projekt ideiglenes mappa\\Project_Tests\\Project_Tests\\Pages\\LoginPage.cs",
+              "RelativeDocumentMoniker": "Project_Tests\\Pages\\LoginPage.cs",
+              "ToolTip": "C:\\Tanul\u00E1s\\Programoz\u00E1s\\Szoftvertesztel\u00E9s\\Tesztel\u00E9s Projekt ideiglenes mappa\\Project_Tests\\Project_Tests\\Pages\\LoginPage.cs",
+              "RelativeToolTip": "Project_Tests\\Pages\\LoginPage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T00:04:26.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainPage.cs",
+              "DocumentMoniker": "C:\\Tanul\u00E1s\\Programoz\u00E1s\\Szoftvertesztel\u00E9s\\Tesztel\u00E9s Projekt ideiglenes mappa\\Project_Tests\\Project_Tests\\Pages\\MainPage.cs",
+              "RelativeDocumentMoniker": "Project_Tests\\Pages\\MainPage.cs",
+              "ToolTip": "C:\\Tanul\u00E1s\\Programoz\u00E1s\\Szoftvertesztel\u00E9s\\Tesztel\u00E9s Projekt ideiglenes mappa\\Project_Tests\\Project_Tests\\Pages\\MainPage.cs",
+              "RelativeToolTip": "Project_Tests\\Pages\\MainPage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T00:04:36.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GamesForYouPageTests.cs",
+              "DocumentMoniker": "C:\\Tanul\u00E1s\\Programoz\u00E1s\\Szoftvertesztel\u00E9s\\Tesztel\u00E9s Projekt ideiglenes mappa\\Project_Tests\\Project_Tests\\Tests\\GamesForYouPageTests.cs",
+              "RelativeDocumentMoniker": "Project_Tests\\Tests\\GamesForYouPageTests.cs",
+              "ToolTip": "C:\\Tanul\u00E1s\\Programoz\u00E1s\\Szoftvertesztel\u00E9s\\Tesztel\u00E9s Projekt ideiglenes mappa\\Project_Tests\\Project_Tests\\Tests\\GamesForYouPageTests.cs",
+              "RelativeToolTip": "Project_Tests\\Tests\\GamesForYouPageTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T00:05:58.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginPageTests.cs",
+              "DocumentMoniker": "C:\\Tanul\u00E1s\\Programoz\u00E1s\\Szoftvertesztel\u00E9s\\Tesztel\u00E9s Projekt ideiglenes mappa\\Project_Tests\\Project_Tests\\Tests\\LoginPageTests.cs",
+              "RelativeDocumentMoniker": "Project_Tests\\Tests\\LoginPageTests.cs",
+              "ToolTip": "C:\\Tanul\u00E1s\\Programoz\u00E1s\\Szoftvertesztel\u00E9s\\Tesztel\u00E9s Projekt ideiglenes mappa\\Project_Tests\\Project_Tests\\Tests\\LoginPageTests.cs",
+              "RelativeToolTip": "Project_Tests\\Tests\\LoginPageTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T00:05:27.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainPageTests.cs",
+              "DocumentMoniker": "C:\\Tanul\u00E1s\\Programoz\u00E1s\\Szoftvertesztel\u00E9s\\Tesztel\u00E9s Projekt ideiglenes mappa\\Project_Tests\\Project_Tests\\Tests\\MainPageTests.cs",
+              "RelativeDocumentMoniker": "Project_Tests\\Tests\\MainPageTests.cs",
+              "ToolTip": "C:\\Tanul\u00E1s\\Programoz\u00E1s\\Szoftvertesztel\u00E9s\\Tesztel\u00E9s Projekt ideiglenes mappa\\Project_Tests\\Project_Tests\\Tests\\MainPageTests.cs",
+              "RelativeToolTip": "Project_Tests\\Tests\\MainPageTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T00:05:37.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Project_Tests.csproj",
+              "DocumentMoniker": "C:\\Tanul\u00E1s\\Programoz\u00E1s\\Szoftvertesztel\u00E9s\\Tesztel\u00E9s Projekt ideiglenes mappa\\Project_Tests\\Project_Tests\\Project_Tests.csproj",
+              "RelativeDocumentMoniker": "Project_Tests\\Project_Tests.csproj",
+              "ToolTip": "C:\\Tanul\u00E1s\\Programoz\u00E1s\\Szoftvertesztel\u00E9s\\Tesztel\u00E9s Projekt ideiglenes mappa\\Project_Tests\\Project_Tests\\Project_Tests.csproj",
+              "RelativeToolTip": "Project_Tests\\Project_Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-01T00:03:59.865Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

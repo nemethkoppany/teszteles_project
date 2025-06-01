@@ -1,0 +1,39 @@
+
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+    <meta charset="UTF-8">
+    <title> Főoldal</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Reco Games - Találd meg a hiperfixációd az elkövetkező 5 hónapra!</h1>
+        <nav>
+            <button onclick="navigateTo('platform_games.html')">Platformok</button>
+            <button onclick="navigateTo('gameForYou.html')">Játék ajánló</button>
+            <button onclick="logout()">Kijelentkezés</button>
+        </nav>
+    </header>
+    <main>
+        <div id="game-list">
+            <div class="product">
+                <h3>Euro Truck Simulator 2</h3>
+                <button onclick="toggleDetails(this)">Részletek</button>
+                <p class="details hidden">Járd be egész Európát különféle élethű és remek részletekkel bíró kamionokban miközben saját vállalkozásod fejleszted. Vásárolj különféle sajátosságokkal bíró pótkocsikat és halgass zenét 5 órán át miközben 100 kilóméteren keresztül egyenesen mész.</p>
+            </div>
+            <div class="product">
+                <h3>Titanfall 2</h3>
+                <button onclick="toggleDetails(this)">Részletek</button>
+                <p class="details hidden">A világ egyik legjobb játéka, játssz vele.</p>
+            </div>
+              <div class="product">
+                <h3>Helldivers 2</h3>
+                <button onclick="toggleDetails(this)">Részletek</button>
+                <p class="details hidden">Egy 4 személyes co-op játék melyben felszabadítod az Automatonokat és a Terminideket a zsarnokok melegágyául szolgáló rendszerek alól miközben az egyértelműen felsőbbrendű társadalmi rendszert, a demokráciát hirdeted és hozod el primitív bolygóikra.</p>
+            </div>
+        </div>
+    </main>
+    <script src="logic.js"></script>
+</body>
+</html>

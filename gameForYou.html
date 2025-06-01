@@ -1,0 +1,23 @@
+
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+    <meta charset="UTF-8">
+    <title>Games for you</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <button onclick="navigateTo('main_page.html')">Vissza a főoldalra</button>
+    </header>
+    <div class =" games-for-you">
+         <h2>Melyik játékot ajánljuk neked?</h2>
+    <p>Add meg az életkorod és az alapján megajánljuk neked a korodhoz illő játékot!!</p>
+    <label for="">Ide írd be a születési dátumod!(1900-2025)</label>
+    <input type="number" id="age" name="age" min="1900" max="2025">
+    <button onclick="gameForYou()">Kérem a játékom!</button>
+    </div>
+   
+    <script src="logic.js"></script>
+</body>
+</html>
