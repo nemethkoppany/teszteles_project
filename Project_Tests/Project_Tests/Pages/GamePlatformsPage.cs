@@ -11,13 +11,29 @@ namespace SzoftvertesztBeadando.pages
         public GamePlatformsPage(IWebDriver driver) : base(driver) { }
 
         By FilterSelect => By.Id("filter");
-        By ProductDivs => By.CssSelector("#filtered-products .product");
+        By ProductDivs => By.CssSelector("#filtered-products .games");
+        By BackToMainButton => By.Id("BackToMain_btn");
+
+        public void GoBackToMain()
+        {
+            Click(BackToMainButton);
+        }
+
 
         public void SelectPlatform(string platform)
         {
-            var select = new OpenQA.Selenium.Support.UI.SelectElement(Find(FilterSelect));
-            select.SelectByValue(platform);
+            var selectElement = Find(FilterSelect);
+            var options = selectElement.FindElements(By.TagName("option"));
+            foreach (var option in options)
+            {
+                if (option.GetAttribute("value") == platform)
+                {
+                    option.Click();
+                    break;
+                }
+            }
         }
+
 
         public ReadOnlyCollection<IWebElement> GetVisibleProducts()
         {

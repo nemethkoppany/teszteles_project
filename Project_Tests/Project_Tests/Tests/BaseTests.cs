@@ -28,7 +28,10 @@ namespace SzoftvertesztBeadando.tests
         [TearDown]
         public void TearDown()
         {
-            driver.Quit();
+            if (driver != null)
+            {
+                driver.Dispose();
+            }
         }
     }
 }

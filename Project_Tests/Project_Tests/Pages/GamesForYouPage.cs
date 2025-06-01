@@ -9,8 +9,15 @@ namespace SzoftvertesztBeadando.pages
         public GamesForYouPage(IWebDriver driver) : base(driver) { }
 
         By AgeInput => By.Id("age");
-        By GetGameButton => By.XPath("//button[contains(text(),'Kérem a játékom!')]");
+        By GetGameButton => By.Id("gameForYouBtn");
+
         By Recommendation => By.CssSelector(".recommendation p");
+        By BackToMainPageButton => By.Id("BackToMainPage_btn");
+
+        public void GoBackToMain()
+        {
+            Click(BackToMainPageButton);
+        }
 
         public void EnterYear(string year)
         {

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "imU/nrpViYo=",
+  "dgSpecHash": "2u+B4wuXzyI=",
   "success": true,
-  "projectFilePath": "C:\\Tanulás\\Programozás\\Szoftvertesztelés\\Tesztelés Projekt ideiglenes mappa\\Project_Tests\\Project_Tests\\Project_Tests.csproj",
+  "projectFilePath": "C:\\Tanulás\\Programozás\\Szoftvertesztelés\\teszteles_project\\Project_Tests\\Project_Tests\\Project_Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nemet\\.nuget\\packages\\coverlet.collector\\6.0.4\\coverlet.collector.6.0.4.nupkg.sha512",
     "C:\\Users\\nemet\\.nuget\\packages\\dotnetseleniumextras.waithelpers\\3.11.0\\dotnetseleniumextras.waithelpers.3.11.0.nupkg.sha512",

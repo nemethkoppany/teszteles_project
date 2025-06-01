@@ -12,7 +12,7 @@ namespace SzoftvertesztBeadando.tests
         {
             loginPage.GoTo();
             loginPage.Login("admin", "1234");
-            mainPage.GoToCart();
+            mainPage.GoToGameForYou();
         }
 
         [Test]
@@ -54,5 +54,14 @@ namespace SzoftvertesztBeadando.tests
             gamesForYouPage.RequestGame();
             Assert.That(gamesForYouPage.GetRecommendationText(), Is.EqualTo("Neked a Fortnite-ot ajánljuk!"));
         }
+
+        [Test]
+        public void GamesForYou_BackToMain_NavigatesToMainPage()
+        {
+            gamesForYouPage.GoBackToMain();
+            Assert.That(driver.Url, Does.Contain("main_page.html"));
+        }
+
+
     }
 }

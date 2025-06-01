@@ -10,7 +10,7 @@ namespace SzoftvertesztBeadando.pages
 
         By UsernameInput => By.Id("username");
         By PasswordInput => By.Id("password");
-        By LoginButton => By.XPath("//button[contains(text(),'Belépés')]");
+        By LoginButton => By.Id("loginBtn");
         By ErrorMessage => By.Id("login-error");
 
         public void GoTo() => driver.Navigate().GoToUrl(URL);

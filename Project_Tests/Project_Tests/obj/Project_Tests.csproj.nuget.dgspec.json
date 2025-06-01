@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Tanulás\\Programozás\\Szoftvertesztelés\\Tesztelés Projekt ideiglenes mappa\\Project_Tests\\Project_Tests\\Project_Tests.csproj": {}
+    "C:\\Tanulás\\Programozás\\Szoftvertesztelés\\teszteles_project\\Project_Tests\\Project_Tests\\Project_Tests.csproj": {}
   },
   "projects": {
-    "C:\\Tanulás\\Programozás\\Szoftvertesztelés\\Tesztelés Projekt ideiglenes mappa\\Project_Tests\\Project_Tests\\Project_Tests.csproj": {
+    "C:\\Tanulás\\Programozás\\Szoftvertesztelés\\teszteles_project\\Project_Tests\\Project_Tests\\Project_Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Tanulás\\Programozás\\Szoftvertesztelés\\Tesztelés Projekt ideiglenes mappa\\Project_Tests\\Project_Tests\\Project_Tests.csproj",
+        "projectUniqueName": "C:\\Tanulás\\Programozás\\Szoftvertesztelés\\teszteles_project\\Project_Tests\\Project_Tests\\Project_Tests.csproj",
         "projectName": "Project_Tests",
-        "projectPath": "C:\\Tanulás\\Programozás\\Szoftvertesztelés\\Tesztelés Projekt ideiglenes mappa\\Project_Tests\\Project_Tests\\Project_Tests.csproj",
+        "projectPath": "C:\\Tanulás\\Programozás\\Szoftvertesztelés\\teszteles_project\\Project_Tests\\Project_Tests\\Project_Tests.csproj",
         "packagesPath": "C:\\Users\\nemet\\.nuget\\packages\\",
-        "outputPath": "C:\\Tanulás\\Programozás\\Szoftvertesztelés\\Tesztelés Projekt ideiglenes mappa\\Project_Tests\\Project_Tests\\obj\\",
+        "outputPath": "C:\\Tanulás\\Programozás\\Szoftvertesztelés\\teszteles_project\\Project_Tests\\Project_Tests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

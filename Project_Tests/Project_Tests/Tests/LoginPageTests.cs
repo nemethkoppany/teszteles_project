@@ -10,13 +10,8 @@ namespace SzoftvertesztBeadando.tests
         [Test]
         public void Login_WithValidCredentials_NavigatesToMain()
         {
-            // Arrange
             loginPage.GoTo();
-
-            // Act
             loginPage.Login("admin", "1234");
-
-            // Assert
             Assert.That(driver.Url, Does.Contain("main_page.html"));
         }
 
